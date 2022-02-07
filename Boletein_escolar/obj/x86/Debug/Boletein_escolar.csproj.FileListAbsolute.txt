@@ -1,0 +1,8 @@
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\bin\x86\Debug\Boletein_escolar.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\bin\x86\Debug\Boletein_escolar.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\bin\x86\Debug\Boletein_escolar.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\obj\x86\Debug\Boletein_escolar.Form1.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\obj\x86\Debug\Boletein_escolar.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\obj\x86\Debug\Boletein_escolar.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\obj\x86\Debug\Boletein_escolar.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Boletin_escolar\Boletein_escolar\obj\x86\Debug\Boletein_escolar.pdb
